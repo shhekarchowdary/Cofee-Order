@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="chooseProduct">Choose Product</string>
+    <string name="heading">Shopping Mart</string>
+    <string name="price">Price</string>
+    <string name="enterQuantity">Quantity</string>
+    <string name="enter_quantity">enter quantity</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="totalPrice">Cart Value</string>
+    <string name="priceValue">100000</string>
+    <string name="placeOrder">Place Order</string>
+</resources>
